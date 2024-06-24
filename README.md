@@ -1,4 +1,4 @@
-#StickerSmash
+# StickerSmash
 
 App to add a sticker to a photo
 
